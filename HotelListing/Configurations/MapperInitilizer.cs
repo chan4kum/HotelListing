@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using HotelListing.Dto;
 using HotelListing.Models;
 
 namespace HotelListing.Configurations
